@@ -11,3 +11,5 @@
 !/config/melius-commands/modifiers/**
 !README.md
 !.gitattributes
+!/resourcepack/
+!/resourcepack/**
