@@ -1,0 +1,13 @@
+*
+!.gitignore
+!/world/
+!/world/datapacks/
+!/world/datapacks/**
+!/config/
+!/config/melius-commands/
+!/config/melius-commands/commands
+!/config/melius-commands/commands/**
+!/config/melius-commands/modifiers/
+!/config/melius-commands/modifiers/**
+!README.md
+!.gitattributes
